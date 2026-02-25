@@ -1,0 +1,14 @@
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/obj/Debug/net10.0/Proje.GeneratedMSBuildEditorConfig.editorconfig
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/obj/Debug/net10.0/Proje.AssemblyInfoInputs.cache
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/obj/Debug/net10.0/Proje.AssemblyInfo.cs
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/obj/Debug/net10.0/Proje.csproj.CoreCompileInputs.cache
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/bin/Debug/net10.0/Proje
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/bin/Debug/net10.0/Proje.deps.json
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/bin/Debug/net10.0/Proje.runtimeconfig.json
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/bin/Debug/net10.0/Proje.dll
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/bin/Debug/net10.0/Proje.pdb
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/obj/Debug/net10.0/Proje.dll
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/obj/Debug/net10.0/refint/Proje.dll
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/obj/Debug/net10.0/Proje.pdb
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/obj/Debug/net10.0/Proje.genruntimeconfig.cache
+/home/interaktifcan/RiderProjects/Proje1.1/Proje/obj/Debug/net10.0/ref/Proje.dll
